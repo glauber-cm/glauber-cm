@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/54870054/156842778-748659dc-593a-40c6-9d84-fc6c5192001f.jpg" />
+</div>
+
 <center>
-![Markdown](C:/Imagens/CapaGithub.jpg)
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauber-cm&hide=html&layout=compact&theme=buefy" /></td>
