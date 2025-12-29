@@ -1,30 +1,26 @@
-### Hi there 👋
+# 👋 Olá, eu sou o Glauber Mendes
 
-<!--
-**glauber-cm/glauber-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor .NET  
+🚀 Focado em C#, ASP.NET Core e APIs REST  
+📍 Brasil
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias
+- C# / .NET / ASP.NET Core
+- Entity Framework Core
+- APIs REST
+- SQL Server
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre meus projetos
+Aqui você encontrará projetos práticos voltados para:
+- Desenvolvimento de APIs REST em .NET
+- Boas práticas de código
+- Organização em camadas
+- Estudos de arquitetura e padrões
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauber-cm&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=glauber-cm&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
- 
+## 📈 Em constante evolução
+Sempre buscando melhorar minhas habilidades em backend, arquitetura e qualidade de software.
 
-
-
+📫 **Contato**
+- GitHub: https://github.com/glauber-cm
 
